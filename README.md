@@ -1,1 +1,3 @@
-This is just a basic app template to run data migrations
+This is just a basic app template to run data migrations.
+
+It tries to replicate posting like and sharing.
