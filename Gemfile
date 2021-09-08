@@ -50,7 +50,7 @@ group :development, :test do
 end
 
 group :development do
-  gem 'better_errors', '~> 2.7', '>= 2.7.1'
+  gem 'better_errors', '~> 2.8'
   gem 'listen', '>= 3.0.5', '< 3.2'
   gem 'rack-livereload'
   # Spring speeds up development by keeping your application running in the background. Read more: https://github.com/rails/spring
